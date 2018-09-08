@@ -27,7 +27,7 @@ body {
 }
 
 .contactForm input {
-	color: #C5BDB3;
+	color: #C5BDB3; 
 	background-color: rgb(115,98,68, 0.1);
 	padding: 10px;
 	text-align: center;
@@ -165,7 +165,7 @@ body {
 	}
 
 	.contactForm input {
-		width: 33.33%;
+		width: 33%;
 	}
 }
 
